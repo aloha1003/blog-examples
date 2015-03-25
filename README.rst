@@ -13,3 +13,11 @@ located at http://qafoo.com/blog/.
    fill-column: 79
    End: 
    vim: et syn=rst tw=79
+
+========
+How to Run Test
+
+pear run-tests upload-example.phpt
+pear run-tests simple-example.phpt
+
+
